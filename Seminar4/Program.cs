@@ -52,7 +52,7 @@
 //     return sum; 
 // }
 
-//Задача1
+//Задача1 "Определить количество цифр в числе" 
 // int FindDigit(int number)
 // {
 //     int count = 0;
@@ -66,7 +66,7 @@
 // Console.WriteLine(FindDigit(number: 100));
 
 
-//Задача2
+//Задача2 "Найти произведение всех чисел из которого состоит заданное число (факториал)"
 // int GetFactorial(int number) 
 // { 
 //     int product = 1; 
@@ -80,7 +80,7 @@
 // Console.WriteLine(GetFactorial(number: 3));
 
 
-//Задача3
+//Задача3 "Создать и вывести массив из 0 и 1, длиной 8 символов"
 // int[] GetRandomNumbers(int count)
 // {
 //     Random rnd = new Random();
